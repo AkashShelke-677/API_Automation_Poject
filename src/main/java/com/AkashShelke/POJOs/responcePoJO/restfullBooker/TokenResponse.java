@@ -1,4 +1,4 @@
-package com.AkashShelke.POJOs.responcePoJO;
+package com.AkashShelke.POJOs.responcePoJO.restfullBooker;
 
 public class TokenResponse {
 

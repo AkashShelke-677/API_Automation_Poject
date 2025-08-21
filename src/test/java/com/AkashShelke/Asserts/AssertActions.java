@@ -1,4 +1,4 @@
-package com.AkashShelke.AssertActions;
+package com.AkashShelke.Asserts;
 
 public class AssertActions {
 }

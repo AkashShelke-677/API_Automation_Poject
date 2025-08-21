@@ -1,4 +1,4 @@
-package com.AkashShelke.POJOs.responcePoJO;
+package com.AkashShelke.POJOs.responcePoJO.restfullBooker;
 
 import com.API_Testing_Sample.PayLoad_Managment.Class.MannualWay.ReqPOJO.BookingClass;
 

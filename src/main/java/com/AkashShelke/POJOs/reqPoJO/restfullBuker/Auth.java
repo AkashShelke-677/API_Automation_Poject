@@ -1,4 +1,4 @@
-package com.AkashShelke.POJOs.reqPoJO;
+package com.AkashShelke.POJOs.reqPoJO.restfullBuker;
 
 public class Auth {
     private String username;
