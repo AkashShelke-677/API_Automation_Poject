@@ -1,10 +1,14 @@
 package com.AkashShelke.POJOs.responcePoJO.restfullBooker;
 
-import com.API_Testing_Sample.PayLoad_Managment.Class.MannualWay.ReqPOJO.BookingClass;
+
+// POJO created json2 POJO by pasting the jason data "https://www.jsonschema2pojo.org/"
+
+import com.AkashShelke.POJOs.reqPoJO.restfullBuker.Booking;
 
 public class BookingResponce {
 
     private Integer bookingid;
+    private Booking booking;
 
     public Integer getBookingid() {
         return bookingid;
@@ -14,13 +18,11 @@ public class BookingResponce {
         this.bookingid = bookingid;
     }
 
-    public BookingClass getBooking() {
+    public Booking getBooking() {
         return booking;
     }
 
-    public void setBooking(BookingClass booking) {
+    public void setBooking(Booking booking) {
         this.booking = booking;
     }
-
-    private BookingClass booking;
 }
