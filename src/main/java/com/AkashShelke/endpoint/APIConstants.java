@@ -2,15 +2,22 @@ package com.AkashShelke.endpoint;
 
 public class APIConstants {
 
-    //Project 1 Restfull Booker Full API
-    public static String Base_URI = "https://restful-boer.her";
-    public static String Create_Update_Booking_URL ="/booking";
-    public static String Auth_Url = "/auth";
 
-    //Project 2 VWO.com full API+
-    public static String App_VWI_URL = "https://app.vwo.ccom/login";
+    // Project #1 - Rest Ful Bookers
+    public static String BASE_URL = "https://restful-booker.herokuapp.com";
+    public static String CREATE_UPDATE_BOOKING_URL  = "/booking";
+    public static String AUTH_URL  = "/auth";
+    public static String PING_URL  = "/ping";
 
-    //We can fetch from EXCEL file
+    // Project #2 - App vwo Login
+    public static String APP_VWO_URL  = "https://app.vwo.com/login";
+    // public static String BASE_URL = // Fetch this from Excel file
+
+
+
+    // Project #3
+    public static String BASE_URL_PROJECT_3 = "";
+    public static String UPDATE_STATUS  = "/api/v1/trip/update-status";
 
 
 }

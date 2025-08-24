@@ -1,11 +1,11 @@
 package com.AkashShelke.POJOs.responcePoJO.restfullBooker;
 
 
-// POJO created json2 POJO by pasting the jason data "https://www.jsonschema2pojo.org/"
+// POJO created json2 POJO by pasting the jason data "https://www.jsonschema2pojo.org/" or plugin jSOn2POGO
 
 import com.AkashShelke.POJOs.reqPoJO.restfullBuker.Booking;
 
-public class BookingResponce {
+public class BookingResponse {
 
     private Integer bookingid;
     private Booking booking;
